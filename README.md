@@ -1,25 +1,39 @@
 
-## Table of contents
-- [Built with](#built-with)
-- [What I learned](#what-i-learned)
-- [Author](#author)
+# 🌐 Fuel Station
 
+---
 
-## What I learned
+## 🧭 Project Overview
 
+This website displays the opening hours of a gas station and includes a simple calculator to estimate the fuel cost based on the fuel type and the number of liters.
 In this project, i create gas station. U can chose by ur self how much gas u want tank up and how much it will be cost. I learned how JS works on input elements
 
-## Built with
+---
 
-• Semantic HTML5 markup
+## 🧱 Technologies Used
 
-• JavaScript fundamentals
+- **HTML5 / CSS3 / JavaScript (ES6+)**  
 
-• CSS custom properties
+---
 
+## 📱 Features
 
-## Author
+- Display of fuel station opening hours
+- Fuel cost calculator – choose the fuel type and number of liters to see total cost
+- Interactive inputs – the cost updates dynamically based on user input
+- Simple and intuitive interface for quick fuel price estimation
+- Responsive layout – works on desktop and mobile devices
 
-• LinkedIn - (https://www.linkedin.com/in/artsiom-kukankou-7700712b1/)
+---
 
-• E-mail: kukankouartsiom@gmail.com
+👤 Author
+
+Artsiom Kukankou
+
+🌐 Live Site - https://my-website-omega-three.vercel.app/
+
+💻 GitHub - https://github.com/ypayel
+
+🧠 Frontend Developer (React + TypeScript + SCSS)
+
+📍 Based in Poland
